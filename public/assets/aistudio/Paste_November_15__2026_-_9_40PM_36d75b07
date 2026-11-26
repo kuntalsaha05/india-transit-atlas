@@ -1,0 +1,961 @@
+For this project, I recommend building a **comprehensive Indian Urban Transit Information Portal**, rather than a conventional report website.
+
+Think of it as a central digital encyclopedia of India's urban transportation infrastructure, where someone can explore every metro network, railway system, bus network, tramway, BRTS, monorail and water-based transit system.
+
+The website should combine three things:
+
+1. **Transit encyclopedia:** Detailed information about every urban transit system in India.
+2. **Interactive transit atlas:** Maps showing routes, stations, networks and geographical coverage.
+3. **Research and data portal:** Statistics, historical development, technical specifications and comparisons.
+
+I would build it as a long-term independent research project, with a design and information architecture that can accommodate new cities and transport modes without rebuilding the website.
+
+# **1. Website concept**
+
+[Secure-commute | Devpost](https://images.openai.com/static-rsc-4/9Rkly0_-xN2QesljUggREwANoquTnix6tT5xCZCv0QMF-QT7SkFaaA7dXCfXrvDb8lCdNduSc4LIQTfOb3chYgOEJsVCZYZKP4jwSkLEZdodpr2f43vzsTUIaLYGsjnwVjQLqrAvePWbD1YMLW6IcDwouZHsLYHYUhQgjGzg9YM?purpose=inline)
+
+[devpost.com](https://devpost.com/software/secure-commute?utm_source=chatgpt.com)
+
+# **INDIA TRANSIT ATLAS**
+
+An independent urban mobility research and information platform
+
+**Suggested tagline:** Understanding India's Urban Transportation Networks.
+
+Research-driven
+
+Interactive maps
+
+Multi-modal
+
+Other possible names:
+
+- India Transit Atlas
+- Urban Mobility India
+- Bharat Transit Network
+- India Urban Transport Observatory
+- Transit India
+
+My recommendation is **India Transit Atlas**.
+
+# **2. Website structure and navigation**
+
+I recommend the following main navigation.
+
+## **01**
+
+**Home**
+
+National overview, statistics and featured networks.
+
+## **02**
+
+**Transit Systems**
+
+Explore every urban transit mode.
+
+## **03**
+
+**Cities**
+
+City-wise transportation infrastructure.
+
+## **04**
+
+**Interactive Map**
+
+Explore routes, stations and network coverage.
+
+## **05**
+
+**Statistics & Analysis**
+
+Ridership, network length, capacity and comparisons.
+
+## **06**
+
+**Technology**
+
+Rolling stock, signalling, electrification and infrastructure.
+
+## **07**
+
+**Projects & Expansion**
+
+Under-construction, approved and proposed projects.
+
+## **08**
+
+**History**
+
+Historical development of urban transport in India.
+
+## **09**
+
+**Research & Sources**
+
+Methodology, references, datasets and updates.
+
+# **3. Transit categories to cover**
+
+Don't restrict the website to metro rail. Build individual sections for each transport category.
+
+[NEOCON 2026](https://images.openai.com/static-rsc-4/LcZQzCjEtbAq7XZ7ilMBTXUuQ7uGjBum5wiOZ5Uohvc5rMCuZLOBFLsigUGHGGTgphVMHzMCT30AydwvBqpoRwRF3KcC4t7waUvBwjOZKxhsDDhvpW4QfDan7xzyjt05D7C5yjCa_YLfGoWNpbznx8bcWAfqyTUkWrrLwXfe3iY?purpose=inline)
+
+**1. Metro Rail**
+
+City-wise metro networks, lines, stations, rolling stock, signalling, fares, ridership and expansion.
+
+[Mumbai Local Trains: Central Railway To Add 25% Capacity On 10 Services From July 20](https://images.openai.com/static-rsc-4/1Z5iLuAqW2bb2n3h8hHns1VZFvx0O51c0xgxjmDaxR1eF7v6wxFqYaX_XbuNYAiPM9Ti6oXkqBehVGsfaKs92mj_hMWnE4IMcW75DAreTa-bb9xVK1A2Z9_ggq5NYpoQOT6EUgDgMiPGjs7DA_YsHm9-SgVxnOGbWgPqXDzK_xY?purpose=inline)
+
+**2. Suburban and Urban Railways**
+
+Mumbai local, Chennai suburban, Kolkata suburban, Hyderabad MMTS and other relevant urban rail networks.
+
+[In a first, AC e-buses hit Bengaluru roads](https://images.openai.com/static-rsc-4/6YV2NEA6lvQnVlNCWVVvb1UGyq32Bdxj_1oWxAyfubfvf30IeVgUWOz1ReAeCM4RnO0Tzudrw0aBztuYBAB6EzxJfZqBzcSL-wCSTGmYCeW9TGWhpKKBtitd_dB6W5YzZaQSKCRCLxpsZnxIUYjYhFdTiQwa92Uxyq44a72yr1I?purpose=inline)
+
+**3. City Bus Networks**
+
+Government bus operators, fleet, routes, depots, terminals, electric buses and ticketing.
+
+[2010: Ahmedabad, India — The Sustainable Transport Award](https://images.openai.com/static-rsc-4/_5SEMxel1bp7KXpp3CxG5_E2gkyZYl7Mrhwy-dYEZ5Z1QpojkIM37UqwOU3aDDS1kNnEx8c7SHadHazbI0-GtgFGWHuI3PDNYBrA5RhYjckPlz2ZVYQFByTlXYlTiykxzOJyZudmd40JNREtAstosIUSQs6ifG91gF23wCLrgS8?purpose=inline)
+
+**4. BRTS**
+
+Dedicated bus corridors, stations, routes, fleet and operational performance.
+
+[TOPSHOT-INDIA-TRANSPORT-HISTORY-TRAM](https://images.openai.com/static-rsc-4/YqisHand_g4eSS5eAPmMTy6XbhTqcU5eDT9VQSIrQaUXyQq0eQkgJKIJH3GAOgx3Q3_hLRJOKikYmGqeUiasfOSZgjVRQdRgVkc28SLguWNHSD0UGOnZTdTtw_qdapYLHyt8tBg-aH4r5aPyc2TYPWuYnh1xLfVJbmYtulfB-3srOc5-Uabiyzjd1-UyJxkQ?purpose=inline)
+
+**5. Tramways**
+
+Kolkata's tram network, history, infrastructure and operational status.
+
+[MMRDA Reinvites Bids for 10 Train-sets for Mumbai Monorail - The Metro Rail Guy](https://images.openai.com/static-rsc-4/Z99tnQkhOmWe0LEiyesX7wj-tqknB2-uRoVyq4BilXCfqylfZbMPXvLbyiXUXwvwhQINm9cwrjRX3FX_uh9IbmS7np1_zfecrMVdvn-3PK7SP9HEZsaRK2K8D6k3R7WpPvWLCnSuXKOGMeVOm4PWlKNOZL7s1fn_8xI4Fg40_HM?purpose=inline)
+
+**6. Monorail and Light Rail**
+
+Existing systems, operating status and proposed projects.
+
+[भारतातील जल मेट्रो: विद्यमान आणि आगामी प्रकल्पांविषयी संपूर्ण माहिती](https://images.openai.com/static-rsc-4/_kAyGOqcrNiuSIv5Lf4QPVHZPAhlmKRWE9QuFH04j1v70f63BUIERdDkLpm5AXK-2xcGXz5eZwnvT8BhUeG_YybiPSkqqkYU2VascWvDd1fe42ZsnaKMjp0JMFODs_y3X_eR5myigXrkMuI_yHMJHujKhv5khrPSwZxh7dcLKgU?purpose=inline)
+
+**7. Water-based Urban Transit**
+
+Kochi Water Metro, ferry-based urban networks and associated infrastructure.
+
+[Why Electric Rickshaws Are the Real EV Revolution | Nxcar Content Hub](https://images.openai.com/static-rsc-4/KLEZXyVkLFB96yUeUJE1Ss8yts0CVXZ16reC1vZYMLX47nAGA-disbbv2PT8Ewmu9SpAm8Xr5tv4HYpDaSmsYsgE3u9xzPv3eO5hPg5VbNZ74CKEd12Hx0krkwtyCEDNFXb12f1fY5JOu_BH4mWgWI5DhL1yKRWXF3H-JEOyCos?purpose=inline)
+
+**8. Intermediate and Feeder Transport**
+
+E-rickshaws, shared mobility, feeder services and other urban connectivity modes.
+
+# **4. Standard template for every city**
+
+This is the most important part of your project.
+
+Every city should have its own dedicated page, with a consistent information structure. For example, Delhi, Mumbai, Pune, Bengaluru and Kolkata should follow the same template.
+
+## **City profile structure**
+
+For every city, include the following:
+
+| Section                  | Information to include                                |
+| ------------------------ | ----------------------------------------------------- |
+| 1. City overview         | City, state, population context and urban area        |
+| 2. Transit overview      | All available public transit modes                    |
+| 3. Historical background | Beginning, development and milestones                 |
+| 4. Network details       | Total route length, lines, stations and coverage      |
+| 5. Routes                | Individual routes, terminals and interchange stations |
+| 6. Infrastructure        | Elevated, underground and at-grade sections           |
+| 7. Rolling stock         | Train/bus models, manufacturers and specifications    |
+| 8. Technology            | Signalling, power, automation and ticketing           |
+| 9. Operations            | Operating hours, frequency, speed and fares           |
+| 10. Ridership            | Daily and annual passenger statistics                 |
+| 11. Connectivity         | Integration with other transport modes                |
+| 12. Expansion            | Approved, under-construction and proposed projects    |
+| 13. Challenges           | Financial, technical and operational issues           |
+| 14. Future outlook       | Planned improvements and development                  |
+| 15. References           | Official documents and source links                   |
+
+### **Example: Delhi city page**
+
+[DMRC Releases Official Phase 4 Map of the Delhi Metro Project - The Metro Rail Guy | Delhi metro, Metro map, Singapore map](https://images.openai.com/static-rsc-4/lLV_A6M7uAC7S8OXKki0ls4tuh8o4WM1QGbjq6Coy215U2iUMfob51_Jr6soAbmxboQaNHz_YXQkXFwhv32HLnXgrt0Tg46zdIWBgzTT8Z83xF7fsDfhrtNuT2X8TOUXNaV7eNbVxdfnyFch1OECaDBWxaERIyilFhWkcpVg744?purpose=inline)
+
+[New Infrastructure in India](https://images.openai.com/static-rsc-4/jUojY5dCsxMLSJbvvPo0M9FNRkQZFg4_vafIL48lEgIb-aSeZDpnyZvT2sjuc9qRvZDcmmpNUGMumy0wKBLkWnSxKSlqEqnbJLVlrXTrjigIDxg-qU2x6X_jm5PifeLjnK71VB4FOuqXD15M7cI9OAE_qa0sq1ZbrAR9CKOhGcM?purpose=inline)
+
+[Delhi Metro Rail Corporation (@OfficialDMRC) on X](https://images.openai.com/static-rsc-4/vA6fX2O-dV0wQb2q9G357MAdUJzaC7o7IzcyWirnejPaWpX-N6-0OVI-kP-hcn-PI9AQBQQ1Bw9Gg_-nzfH_5w51FjVIPUX1MtTHGhv7FiF7cODUVkeVE48SC2sS3h6EaEpkMkLgy3o53usHUtE-7kZ8UEwpRE4I61yzbu8Jb_A?purpose=inline)
+
+8
+
+Your Delhi page would contain:
+
+- Delhi Metro
+- Delhi suburban and regional rail connections, clearly distinguished from urban metro
+- DTC bus network
+- Cluster bus services
+- Delhi BRT corridor history and current status
+- Airport and regional transit integration
+- Proposed and under-construction transport projects
+
+Each mode should have a separate detailed page, linked to the Delhi city profile.
+
+## **5. Metro rail: dedicated information architecture**
+
+Since metro rail is your starting point, give it a particularly detailed structure.
+
+# **Metro Rail – India**
+
+[From 248 km in 5 cities to 973 km in 23 cities in past decade – India’s metro rail network soars - Infrastructure News | The Financial Express](https://images.openai.com/static-rsc-4/vOQGHHVgUn_QqgK4QVX2GjUZB5r7CUWDEAMPKUBDiS6zZBkH9aoM8IxlmQxHP2V633YN9MkIIpAPsZE0jGxzyjj7rGBaCkFER1ExDatESYNM0E7c0kno6j_T_QjdmrddDw0yU9jyA3SQW_r1C3KELwEz332JrjbZnu9PcyGCD1k?purpose=inline)
+
+[financialexpress.com](https://www.financialexpress.com/business/infrastructure-from-248-km-in-5-cities-to-973-km-in-23-cities-in-past-decade-indias-metro-rail-network-soars-3632553/?utm_source=chatgpt.com)
+
+**Metro directory**
+
+A searchable directory of Indian metro systems.
+
+**Individual metro pages**
+
+Each metro page should contain:
+
+1. General information
+2. History and timeline
+3. Network statistics
+4. Line-wise information
+5. Station directory
+6. Interchange stations
+7. Route maps
+8. Rolling stock specifications
+9. Track gauge and track configuration
+10. Electrification and power supply
+11. Signalling and train control
+12. Automatic train operation
+13. Station infrastructure
+14. Fare structure and ticketing
+15. Operating hours and frequency
+16. Ridership and performance
+17. Accessibility and passenger facilities
+18. Safety and emergency systems
+19. Financial model and project cost
+20. Environmental impact
+21. Integration with other transport
+22. Expansion and future projects
+23. Sources and references
+
+### **Example of a metro line database**
+
+| Field              | Example information             |
+| ------------------ | ------------------------------- |
+| Line name          | Yellow Line                     |
+| Metro system       | Delhi Metro                     |
+| Starting station   | Samaypur Badli                  |
+| Terminal station   | Millennium City Centre Gurugram |
+| Length             | Verified route length           |
+| Number of stations | Verified count                  |
+| Opening date       | Original inauguration date      |
+| Track gauge        | Gauge specification             |
+| Power supply       | Electrification type            |
+| Rolling stock      | Train model                     |
+| Signalling         | Signalling technology           |
+| Operational status | Operational / Partial / Closed  |
+
+The website should support individual station profiles as well. This will make it possible to build a complete station directory later.
+
+# **6. Homepage design**
+
+The homepage should feel like a professional transport research platform, not a college assignment.
+
+[城交交能 | 轨道交通运营辅助决策系统，AI驱动破解超大城市地铁运营难题-深城交](https://images.openai.com/static-rsc-4/cTi-5RDG_Y5yr7hxkTMfN1WZ2VIJuIMujCVfBAnpd8R-yfCLjwwqi4ln7J6dhFAuIC5mvuK7zKiErC1uVuhNMFZjBqw4LF0pcO8L3ED88if-V7aFc9M5TeRsQHWnlAZzKUTTYkaA5IBcuzvTtgTD1Y56XoynjsbLpieUDQQ8MaY?purpose=inline)
+
+[DATA CHALLENGE — 10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management](https://images.openai.com/static-rsc-4/uh27vMrHEI-hqWqLu3CFiHBLRxaSSlxS8NHBnSaY2NglT3zfbXJef7BOiSp1Ng59eHyENRLH8yYgAXt928PGpgX-L3N134QgkgeSgS7qdOXfvAZJSAf4q0MTSH99k-hxZwDCXI2XZ4CuafQpG1k9O6YxJvTdHlAZFA9Tmc39yi8?purpose=inline)
+
+[Monitoring Dashboard Software: Why a Subway System Switched from Grafana to InetSoft](https://images.openai.com/static-rsc-4/VvPXcQK1k1vLwZuEAQhh1xvpg1z-nwQVrXiU7vJYKVreEb89BfXby4VmMHYHLyLL9LHTrLGQNajKSlhTzQOYmxRckJpll80SaKSht8DNTyC-0aX4R8nOZkt27kxeW-iTQe5ZpO-2jdTj_Jz6LOf0iyTTPAPnmTgLusJxJMgIB4U?purpose=inline)
+
+12
+
+Recommended layout:
+
+1. **Hero section:** India Transit Atlas, tagline and search bar.
+2. **National overview:** Total operational networks, cities covered, modes and network length.
+3. **Explore by transport mode:** Metro, bus, rail, BRTS, tram, monorail and water transit.
+4. **Explore by city:** Interactive India map with city markers.
+5. **Featured networks:** Delhi Metro, Mumbai Suburban Railway, Kolkata Metro, etc.
+6. **Network statistics:** Charts for network length, ridership and expansion.
+7. **Latest developments:** New lines, stations, projects and service updates.
+8. **Research methodology:** Data sources, definitions and update dates.
+9. **Footer:** About, contact, methodology, sources and disclaimer.
+
+# **7. Recommended technology stack**
+
+Considering your previous work with React, TypeScript, Vite and Python/FastAPI, I recommend using a similar architecture.
+
+| Layer        | Technology                    | Purpose                           |
+| ------------ | ----------------------------- | --------------------------------- |
+| Frontend     | React + TypeScript            | Website interface                 |
+| Build tool   | Vite                          | Development and production builds |
+| Styling      | Tailwind CSS                  | Responsive design                 |
+| Components   | shadcn/ui                     | Consistent UI components          |
+| Backend      | Python FastAPI                | Data APIs                         |
+| Database     | PostgreSQL                    | Transit information               |
+| Maps         | MapLibre GL JS                | Interactive geographic maps       |
+| Charts       | Recharts                      | Statistics and analytics          |
+| Mapping data | GeoJSON                       | Routes, stations and boundaries   |
+| Deployment   | Vercel + Render or equivalent | Hosting                           |
+
+**Important architectural decision:** Keep the transit information separate from the website's UI.
+
+For example, if you add a new metro line in the database, the website should automatically update its network statistics, city profile and line directory.
+
+Avoid hardcoding route information directly into React components.
+
+### **Suggested database structure**
+
+```
+
+-- Core geographical information
+CREATE TABLE cities (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    state VARCHAR(100),
+    population BIGINT
+);
+
+-- Transit modes
+CREATE TABLE transit_modes (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+-- Transit networks
+CREATE TABLE transit_systems (
+    id SERIAL PRIMARY KEY,
+    city_id INTEGER REFERENCES cities(id),
+    mode_id INTEGER REFERENCES transit_modes(id),
+    name VARCHAR(200) NOT NULL,
+    operator VARCHAR(200),
+    operational_since DATE,
+    status VARCHAR(50)
+);
+
+-- Individual routes or lines
+CREATE TABLE transit_lines (
+    id SERIAL PRIMARY KEY,
+    system_id INTEGER REFERENCES transit_systems(id),
+    name VARCHAR(150),
+    length_km DECIMAL(10,2),
+    opening_date DATE,
+    status VARCHAR(50)
+);
+
+-- Individual stations
+CREATE TABLE stations (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(200) NOT NULL,
+    latitude DECIMAL(10,7),
+    longitude DECIMAL(10,7)
+);
+
+-- Source and verification tracking
+CREATE TABLE sources (
+    id SERIAL PRIMARY KEY,
+    title TEXT NOT NULL,
+    url TEXT,
+    publisher VARCHAR(200),
+    publication_date DATE,
+    accessed_at DATE
+);
+
+```
+
+You can expand this schema with line-station relationships, ridership records, fares, fleet information, project milestones and historical snapshots.
+
+# **8. Important research and data guidelines**
+
+This is where you can make the website substantially better than ordinary transit websites.
+
+**A. Distinguish project statuses**
+
+Never combine these into one network-length figure:
+
+- Operational
+- Partially operational
+- Under construction
+- Approved
+- Proposed
+- Cancelled or suspended
+
+**B. Give every statistic a date**
+
+For example:
+
+| Statistic                  | Value | Data as of               |
+| -------------------------- | ----- | ------------------------ |
+| Operational network length | XX km | 15 Nov 2026              |
+| Operational stations       | XX    | 15 Nov 2026              |
+| Daily ridership            | XX    | Specified reporting date |
+| Under-construction length  | XX km | 15 Nov 2026              |
+
+These are placeholders, not actual statistics.
+
+**C. Maintain source transparency**
+
+Every important number should have:
+
+- Source organisation
+- Source document or webpage
+- Publication date, where available
+- Date accessed
+- Relevant reporting period
+- Verification status
+
+**D. Establish clear definitions**
+
+For example, don't add suburban railway, metro and intercity railway kilometres together without explaining the classification. Define exactly what counts as an urban transit system.
+
+**E. Maintain historical data**
+
+A network's length and ridership change. Preserve dated snapshots instead of overwriting older statistics.
+
+# **9. Development roadmap**
+
+I recommend developing this in phases.
+
+1. **Phase 1 – Foundation**
+   - Website layout and branding
+   - Homepage
+   - Navigation
+   - City directory
+   - Transit mode directory
+   - Database design
+2. **Phase 2 – Metro Rail**
+   - Indian metro directory
+   - City-wise metro profiles
+   - Line-wise details
+   - Station directory
+   - Technical information
+   - Historical development
+3. **Phase 3 – Interactive Maps**
+   - India-wide map
+   - City-level maps
+   - Individual line visualisation
+   - Station markers
+   - Route filtering
+4. **Phase 4 – Other Transit Modes**
+   - Suburban railway
+   - Buses
+   - BRTS
+   - Trams
+   - Monorail
+   - Water Metro
+   - Feeder and intermediate transport
+5. **Phase 5 – Analytics**
+   - Network-length comparisons
+   - Ridership statistics
+   - City comparisons
+   - Historical growth charts
+   - Infrastructure analysis
+6. **Phase 6 – Research Management**
+   - Source management
+   - Data verification
+   - Update history
+   - Admin dashboard
+   - Search engine optimisation
+
+My recommendation: launch the first complete version with metro rail, then add the other transport modes using the same architecture.
+
+# **10. Master prompt for generating the website**
+
+You can use the following prompt with Cursor, Claude Code, Codex or another AI coding assistant.
+
+I have written it to encourage the coding assistant to build an actual functional research website, rather than just a static landing page.
+
+# Project: India Transit Atlas
+
+Act as a senior full-stack developer, UI/UX designer, geospatial application architect and urban transportation researcher.
+
+I want to develop a comprehensive, research-driven website called **India Transit Atlas**, an independent digital encyclopedia and information platform documenting all urban public transportation systems across India.
+
+## 1. Project Vision
+
+Build a professional, modern and data-driven platform that documents India's urban transit infrastructure.
+
+The platform must cover:
+
+- Metro Rail
+- Suburban and Urban Railways
+- City Bus Networks
+- Bus Rapid Transit Systems (BRTS)
+- Tramways
+- Monorail
+- Light Rail
+- Water Metro and Urban Ferries
+- Feeder and Intermediate Public Transport
+
+The objective is to create a centralised source of structured information where users can explore transport systems by city, category, operator, network, route and station.
+
+This is an independent research project, not an academic assignment.
+
+## 2. Technology Stack
+
+Use the following architecture:
+
+Frontend:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Lucide icons
+
+Backend:
+
+- Python
+- FastAPI
+- REST APIs
+
+Database:
+
+- PostgreSQL
+
+Mapping:
+
+- MapLibre GL JS
+- OpenStreetMap-compatible map data
+- GeoJSON for transit routes and geographical information
+
+Visualisation:
+
+- Recharts
+
+Architecture must be modular, scalable and maintainable.
+
+## 3. Design Requirements
+
+Create a premium transportation research portal.
+
+Visual direction:
+
+- Professional editorial design combined with a modern data dashboard.
+- Dark navy or charcoal background with restrained accent colours.
+- Clear typography and excellent readability.
+- Consistent spacing and responsive layouts.
+- Clean cards, data tables and interactive charts.
+- Subtle animations and transitions.
+- Avoid excessive gradients, glassmorphism and unnecessary decorative elements.
+
+The website should feel like a serious infrastructure research platform.
+
+It must be fully responsive on desktop, tablet and mobile.
+
+## 4. Main Navigation
+
+Create the following navigation:
+
+1. Home
+2. Transit Systems
+3. Cities
+4. Interactive Map
+5. Statistics & Analysis
+6. Technology
+7. Projects & Expansion
+8. History
+9. Research & Sources
+10. About
+
+Provide global search functionality.
+
+## 5. Homepage
+
+Build a detailed homepage containing:
+
+- Hero section with the India Transit Atlas branding.
+- Search bar for cities, stations, operators and transit systems.
+- National transit statistics.
+- Explore by transport mode.
+- Explore by city.
+- Interactive India map.
+- Featured transit networks.
+- Recently updated information.
+- Network expansion statistics.
+- Historical development timeline.
+- Research methodology and source transparency.
+
+All statistics must be dynamically generated from the database.
+
+Do not display invented statistics.
+
+## 6. Transit System Directory
+
+Create a dedicated directory for each transportation category.
+
+Each category must have:
+
+- Overview.
+- List of cities.
+- Network information.
+- Operating organisations.
+- Infrastructure information.
+- Historical development.
+- Operational status.
+- Expansion projects.
+- Relevant statistics.
+- References.
+
+Include filtering by city, state, operator and operational status.
+
+## 7. Metro Rail Module
+
+Metro Rail should be the first and most detailed module.
+
+Create a comprehensive Indian Metro Directory.
+
+Each metro system must have its own dedicated page.
+
+The metro profile should include:
+
+A. General Information
+
+- System name
+- City and state
+- Operating authority
+- Year of commencement
+- Ownership and operating model
+- Current operational status
+
+B. Network Information
+
+- Total operational length
+- Total number of lines
+- Total number of stations
+- Elevated length
+- Underground length
+- At-grade length
+- Interchange stations
+- Track gauge
+
+C. Line Information
+
+- Line name and colour
+- Starting and terminal stations
+- Route length
+- Number of stations
+- Opening date
+- Operational status
+- Route map
+- Interchange connections
+
+D. Station Information
+
+- Station name
+- Geographic coordinates
+- Line connections
+- Station type
+- Accessibility
+- Passenger facilities
+
+E. Technical Information
+
+- Rolling stock manufacturers
+- Train models
+- Coach configuration
+- Train capacity
+- Maximum and operating speed
+- Signalling systems
+- Train control technology
+- Electrification
+- Power supply
+- Track technology
+- Depot infrastructure
+- Automatic train operation
+
+F. Operations
+
+- Operating hours
+- Train frequency
+- Fare structure
+- Ticketing systems
+- Ridership
+- Maintenance
+- Safety and emergency systems
+
+G. Financial Information
+
+- Project cost
+- Funding model
+- Government contribution
+- Private participation
+- Revenue model
+
+H. Environmental and Social Impact
+
+- Energy efficiency
+- Regenerative braking
+- Renewable energy
+- Carbon emission reduction
+- Accessibility
+- Urban development impact
+
+I. Expansion
+
+- Under-construction lines
+- Approved lines
+- Proposed lines
+- Planned stations
+- Expected opening dates
+
+J. References
+
+- Official operator sources
+- Government documents
+- Annual reports
+- Technical documents
+- Research publications
+
+## 8. City-Wise Directory
+
+Every city must have a separate profile.
+
+The profile must combine all relevant urban transit modes available in that city.
+
+Include:
+
+- City overview
+- Transport infrastructure overview
+- Available transit systems
+- Individual system details
+- Network connectivity
+- Interchange facilities
+- Historical development
+- Current projects
+- Future development
+- City-level statistics
+
+Create cross-links between city pages and individual transit system pages.
+
+## 9. Interactive Map
+
+Build an interactive map of India.
+
+Requirements:
+
+- Display cities with urban transit infrastructure.
+- Show transit system categories.
+- Allow users to select a city.
+- Display available transport modes.
+- Show metro lines and station locations.
+- Support route filtering.
+- Allow users to view individual station details.
+- Display operational and under-construction networks using distinct visual styles.
+- Provide map legends and layer controls.
+
+Use actual geographical coordinates and verified route geometry.
+
+Do not generate fictional routes or station locations.
+
+## 10. Statistics and Analytics
+
+Create a data analytics section with:
+
+- Total operational metro length.
+- City-wise network length.
+- Number of operational stations.
+- Daily and annual ridership.
+- Transport mode distribution.
+- Historical network expansion.
+- Fleet information.
+- Under-construction infrastructure.
+- City-wise comparisons.
+
+Include interactive charts and filters.
+
+Clearly distinguish operational statistics from proposed and under-construction infrastructure.
+
+## 11. Database Architecture
+
+Create a properly normalised PostgreSQL database.
+
+Include entities for:
+
+- Cities
+- States
+- Transit modes
+- Transit systems
+- Operators
+- Routes and lines
+- Stations
+- Line-station relationships
+- Rolling stock
+- Technical specifications
+- Ridership records
+- Fare records
+- Projects
+- Historical milestones
+- Geographic data
+- References and sources
+- Data update history
+
+Use appropriate primary keys, foreign keys, indexes and relationships.
+
+Avoid duplicating information between city profiles and transit system profiles.
+
+## 12. Research Accuracy and Data Integrity
+
+This is a research-oriented website. Accuracy is more important than the quantity of information.
+
+Mandatory rules:
+
+- Never invent statistics, dates, routes, station names or technical specifications.
+- Prefer official government and operator sources.
+- Clearly distinguish operational, partially operational, under-construction, approved, proposed and cancelled projects.
+- Attach sources to important factual claims.
+- Include reporting dates for statistics.
+- Maintain historical snapshots.
+- Clearly mark unavailable or unverified information.
+- Do not treat estimates as confirmed figures.
+- Record the date when information was last verified.
+
+## 13. Search and Filtering
+
+Implement global search for:
+
+- Cities
+- Transit systems
+- Operators
+- Lines
+- Stations
+- Transport modes
+
+Provide filters for:
+
+- State
+- City
+- Mode
+- Operator
+- Operational status
+
+Search results should link to the appropriate detailed profiles.
+
+## 14. Development Standards
+
+Follow these engineering requirements:
+
+- Modular component architecture.
+- Reusable UI components.
+- Separation of frontend, backend and database.
+- Type-safe API communication.
+- Proper error handling.
+- Loading states and empty states.
+- Responsive navigation.
+- Accessible design.
+- SEO-friendly pages.
+- Environment variables for configuration.
+- API documentation.
+- Database migrations.
+- Clean and documented code.
+
+## 15. Development Strategy
+
+Develop the project incrementally.
+
+Phase 1:\
+Build the website foundation, navigation, homepage and design system.
+
+Phase 2:\
+Implement the metro directory and detailed metro profiles.
+
+Phase 3:\
+Implement line and station databases.
+
+Phase 4:\
+Build interactive geographical maps.
+
+Phase 5:\
+Implement analytics and comparisons.
+
+Phase 6:\
+Expand to buses, suburban railways, BRTS, trams, monorails and water transit.
+
+Phase 7:\
+Build data management and source verification tools.
+
+Do not attempt to implement everything in one step.
+
+First establish the architecture and database schema. Then develop each module independently.
+
+## 16. First Deliverable
+
+Start by producing:
+
+1. Complete system architecture.
+2. Project folder structure.
+3. Database entity relationship design.
+4. Frontend navigation and page structure.
+5. Design system and visual direction.
+6. Homepage implementation.
+7. Initial metro directory with clearly identified sample or verified data.
+
+After completing the foundation, explain how each subsequent module will be integrated.
+
+The final product should be a scalable, professional and comprehensive digital atlas of India's urban transportation infrastructure.
+
+# **11. How I would actually start building it**
+
+Don't give the entire prompt to a coding assistant and expect the whole platform to be completed correctly in one generation.
+
+Use this sequence:
+
+| Step | Instruction to your coding assistant                           |
+| ---- | -------------------------------------------------------------- |
+| 1    | Analyse the requirements and design the complete architecture. |
+| 2    | Create the project structure and database schema.              |
+| 3    | Build the homepage and global navigation.                      |
+| 4    | Develop the metro directory.                                   |
+| 5    | Develop individual city and metro profiles.                    |
+| 6    | Implement route and station databases.                         |
+| 7    | Add interactive maps.                                          |
+| 8    | Add analytics and other transit categories.                    |
+
+**One additional recommendation:** Build an admin interface for yourself. It should let you add a new city, operator, metro line, station, project or source without manually modifying frontend code.
+
+That will become especially important when the website contains hundreds of routes and thousands of stations.
+
+# **12. What the finished project should achieve**
+
+# **India Transit Atlas**
+
+PROPOSED FINAL PRODUCT
+
+[NeuratantraAI — India's Pioneering Agentic AI Company](https://images.openai.com/static-rsc-4/DVJ6NqROCT9JoO00SMh44Hfm67mI4pugbrsU9Mrq3cHDTTfKSx6u1PYSY2XB7cB57l04e3iZTNOh7qnnsvSOwULCorC0xPkwCZIp3M9AIOolNAF2dOMIo65N0emIvivgZ2eRFcSf9CjNLci0st3BQsE9DrtHFtI1ifIiSdlNDWs?purpose=inline)
+
+[neuratantraai.com](https://neuratantraai.com/ai-saas-products?utm_source=chatgpt.com)
+
+# **All India**
+
+Geographical coverage
+
+# **Multi-modal**
+
+Transport coverage
+
+# **City-wise**
+
+Detailed profiles
+
+# **Data-driven**
+
+Research and analytics
+
+**The ultimate objective**
+
+A user should be able to open the website, select any Indian city, explore its entire urban public transport infrastructure, select a particular metro line, inspect its stations, understand its technology and compare its performance with other cities.
+
+My suggestion is to treat the website as a continuously maintained research database, not a one-time publication. Your React/TypeScript and FastAPI experience provides a good starting architecture for this approach.&#x20;
+
+**Three decisions worth making before development:**
+
+**Q1.** Do you want the website to be primarily an informational encyclopedia, or should it also provide interactive route exploration and journey planning?
+
+**Q2.** Should the visual identity be dark and technical (like an infrastructure analytics platform), or light and editorial (like a professional research publication)?
+
+**Q3.** Do you want to build this as a public-facing website with an admin panel where you personally maintain and update all transit data?
+
+I can help turn the chosen direction into the actual project folder structure, database schema and first working website.
